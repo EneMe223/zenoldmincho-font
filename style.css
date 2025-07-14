@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Zen Old Mincho";
+  src: url("ZenOldMincho-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "Zen Old Mincho", serif !important;
+}
